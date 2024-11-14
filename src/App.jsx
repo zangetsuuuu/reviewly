@@ -1,6 +1,6 @@
 import { HelmetProvider } from 'react-helmet-async';
 import { RouterProvider } from 'react-router-dom';
-import { router } from '@/config/routes/router';
+import { router } from '@/routes/router';
 
 const App = () => {
   return (
